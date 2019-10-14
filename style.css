@@ -1,0 +1,58 @@
+ul {
+  list-style-type: none;
+  margin: 22px 0px 0px;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  font-family: Arial, "Sans-serif";
+  font-size: 13px;
+}
+.fright {
+  float: right;
+  padding-right: 15px;
+}
+.fleft, {
+padding-left: 15px
+}
+.rfooter {
+  float: right;
+  padding-right: 15px
+}
+.footer {
+  padding-left: 15px
+}
+.canada {
+  padding-left: 15px
+}
+
+.fnav {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(237, 238, 239);
+}
+center {
+  position: relative;
+  top: 150px;
+}
+input[type=text] {
+    padding: 13px ;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border-color: rgb(223, 225, 229);
+    width: 550px;
+}
+img {
+  padding-bottom: 25px;
+}
+input[type=submit] {
+  margin-top: 25px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  padding: 14px;
+  font-size: 14px;
+}
